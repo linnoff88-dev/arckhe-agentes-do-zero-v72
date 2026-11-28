@@ -47,7 +47,7 @@
           "titulo": "Contexto",
           "sub": "Mensagem de sistema",
           "forte": true,
-          "detalhe": "Cada mensagem tem um papel: <code>system</code> (as regras, que o modelo trata como instrução de fundo), <code>user</code> (você) e <code>assistant</code> (o modelo). Instruções + memória viram a primeira mensagem, de papel <code>system</code>. Depois vem o seu pedido. É tudo o que o modelo sabe naquela conversa."
+          "detalhe": "Cada mensagem tem um papel: <code>system</code> (as regras, que o modelo trata como instrução de fundo), <code>user</code> (você) e <code>assistant</code> (o modelo). Instruções + memória viram a primeira mensagem, de papel <code>system</code>. Depois vem o seu pedido. é tudo o que o modelo sabe naquela conversa."
         },
         {
           "icone": "caneta",

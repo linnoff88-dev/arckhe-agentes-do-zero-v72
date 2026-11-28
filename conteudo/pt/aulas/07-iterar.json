@@ -92,10 +92,10 @@
         },
         {
           "titulo": "A decisão",
-          "sub": "É sua",
+          "sub": "é sua",
           "texto": [
             "Tarefas simples e máquina modesta: o llama3.2 acerta 5 de 6 em menos de 1 s. Precisa lembrar de você sem errar: modelo maior.",
-            "O ponto não é o qwen. É que agora você decide com número."
+            "O ponto não é o qwen. é que agora você decide com número."
           ]
         }
       ]
@@ -150,7 +150,7 @@
         {
           "rot": "Terminal · baixar e medir o INTELECTO v2",
           "icone": "terminal",
-          "conteudo": "cd ~ && git clone -q https://github.com/inematds/intelecto-v2 && cd intelecto-v2\npython3 -m intelecto avaliar --provedor mock --modelo mock"
+          "conteudo": "cd ~ && git clone -q https://github.com/linnoff88-dev/intelecto-v2 && cd intelecto-v2\npython3 -m intelecto avaliar --provedor mock --modelo mock"
         }
       ],
       "saida": {
@@ -234,22 +234,22 @@
       "links": [
         {
           "t": "INTELECTO v2: guia do assistente completo",
-          "href": "https://inematds.github.io/intelecto-v2/guia/",
+          "href": "https://linnoff88-dev.github.io/intelecto-v2/guia/",
           "icone": "robo"
         },
         {
           "t": "Curso: seu Jarvis seguro com o INTELECTO v2",
-          "href": "https://inematds.github.io/intelecto-v2-curso/",
+          "href": "https://linnoff88-dev.github.io/intelecto-v2-curso/",
           "icone": "lista"
         },
         {
           "t": "A mercearia: escolha peças e gere o seu meu-assistente.md",
-          "href": "https://inematds.github.io/intelecto-v2/guia/mercearia/",
+          "href": "https://linnoff88-dev.github.io/intelecto-v2/guia/mercearia/",
           "icone": "camadas"
         },
         {
           "t": "Kit deste curso no GitHub",
-          "href": "https://github.com/inematds/agentes-do-zero-v72/tree/main/kit",
+          "href": "https://github.com/linnoff88-dev/agentes-do-zero-v72/tree/main/kit",
           "icone": "git"
         }
       ]

@@ -5,7 +5,7 @@
   "titulo": "O que é um agente, e o objetivo do seu",
   "titulo_curto": "Objetivo",
   "minutos": 12,
-  "lead": "Agente não é mágica: é um modelo de IA dentro de um programa que deixa ele usar ferramentas, em voltas, até terminar. É a peça de todo sistema de agentes. Antes de escrever uma linha, você prepara o computador e decide o que o seu agente faz, o que não faz e como vai saber que ficou pronto.",
+  "lead": "Agente não é mágica: é um modelo de IA dentro de um programa que deixa ele usar ferramentas, em voltas, até terminar. é a peça de todo sistema de agentes. Antes de escrever uma linha, você prepara o computador e decide o que o seu agente faz, o que não faz e como vai saber que ficou pronto.",
   "objetivo": "instalar o Ollama com o llama3.2 e escrever o objetivo.md com o que o agente faz, não faz e quando está pronto.",
   "competencias": [
     "entender-anatomia-agente",
@@ -158,7 +158,7 @@
         {
           "rot": "Terminal · baixar o modelo e criar a pasta",
           "icone": "terminal",
-          "conteudo": "python3 --version                    # precisa ser 3.10 ou mais novo\ncd ~ && [ -d agentes-do-zero-v72 ] || git clone -q https://github.com/inematds/agentes-do-zero-v72   # o kit (em outra pasta que a sua)\nmkdir -p ~/agente-do-zero/trabalho   # a pasta do seu agente\nollama list | grep -q \"^llama3.2\" || ollama pull llama3.2     # baixa só se ainda não tiver (2 GB)\nollama run llama3.2 \"Diga oi em cinco palavras.\" 2>/dev/null"
+          "conteudo": "python3 --version                    # precisa ser 3.10 ou mais novo\ncd ~ && [ -d agentes-do-zero-v72 ] || git clone -q https://github.com/linnoff88-dev/agentes-do-zero-v72   # o kit (em outra pasta que a sua)\nmkdir -p ~/agente-do-zero/trabalho   # a pasta do seu agente\nollama list | grep -q \"^llama3.2\" || ollama pull llama3.2     # baixa só se ainda não tiver (2 GB)\nollama run llama3.2 \"Diga oi em cinco palavras.\" 2>/dev/null"
         }
       ],
       "saida": {

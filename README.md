@@ -1,8 +1,8 @@
 # Sistema de agentes do zero
 
-[![Sistema de agentes do zero](assets/img/capa.jpg)](https://inematds.github.io/agentes-do-zero-v72/)
+[![Sistema de agentes do zero](assets/img/capa.jpg)](https://linnoff88-dev.github.io/agentes-do-zero-v72/)
 
-**Curso grátis (7 aulas):** https://inematds.github.io/agentes-do-zero-v72/
+**Curso grátis (7 aulas):** https://linnoff88-dev.github.io/agentes-do-zero-v72/
 
 Você monta um agente de IA peça por peça, seguindo 10 passos (objetivo, harness, modelo, ferramentas, instruções,
 memória, limites, testes, medição e iteração). Python puro, nenhuma biblioteca para instalar e IA grátis no seu
@@ -26,17 +26,17 @@ se mede sozinho.
 | # | Passo | Comando | Quem |
 |---|---|---|---|
 | 1 | Preparar o computador (Windows: WSL + Ubuntu) | `python3 --version` · ollama.com · `ollama pull llama3.2` | você |
-| 2 | Baixar o kit | `cd ~ && git clone https://github.com/inematds/agentes-do-zero-v72` | você |
+| 2 | Baixar o kit | `cd ~ && git clone https://github.com/linnoff88-dev/agentes-do-zero-v72` | você |
 | 3 | Seguir as aulas 2 a 5 | em `~/agente-do-zero`: `cp ~/agentes-do-zero-v72/kit/aulaN/agente.py .` e `python3 agente.py "pedido"` | você |
 | 4 | Medir | `cp ~/agentes-do-zero-v72/kit/medir.py . && python3 medir.py` | ⚙️ script |
 | 5 | Iterar | `git commit` → mudar uma coisa → `python3 medir.py` → manter ou `git restore` | você |
-| 6 | Ir além | [INTELECTO v2](https://inematds.github.io/intelecto-v2/guia/) e `python3 -m intelecto avaliar` | você |
+| 6 | Ir além | [INTELECTO v2](https://linnoff88-dev.github.io/intelecto-v2/guia/) e `python3 -m intelecto avaliar` | você |
 | 7 | (Manutenção do curso) editar `conteudo/pt/aulas/*.json` com marcadores `@@bloco/@@arquivo/@@saida`, capturar e gerar | `bash kit/capturar.sh` (cada bloco pega a própria vaga gpu; nunca embrulhar o lote) → `resolver-kit.py .` → `python3 gerar.py && python3 validar.py --links` | 🧠 sessão |
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHé AI.CLUB
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/392-sistema-de-agentes-do-zero-monte-o-seu-agente-de-ia-nos-10-passos-com-ia-gratis-no-computador/)
-- [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
+- [Ficha completa deste curso](https://www.linnoff88-dev.github.io/cursos/392-sistema-de-agentes-do-zero-monte-o-seu-agente-de-ia-nos-10-passos-com-ia-gratis-no-computador/)
+- [Guia: como aprender inteligência artificial](https://www.linnoff88-dev.github.io/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.linnoff88-dev.github.io/cursos/)
 
-Formato INEMA Learning v7.2 · conteúdo aberto e gratuito · [inema.club](https://inema.club)
+Formato ARCKHé AI Learning v7.2 · conteúdo aberto e gratuito · [linnoff88-dev.github.io](https://linnoff88-dev.github.io)

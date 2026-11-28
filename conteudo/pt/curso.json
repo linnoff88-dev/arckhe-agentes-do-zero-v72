@@ -1,26 +1,26 @@
 {
   "id": "agentes-do-zero-v72",
   "lang": "pt-BR",
-  "url": "https://inematds.github.io/agentes-do-zero-v72/",
+  "url": "https://linnoff88-dev.github.io/agentes-do-zero-v72/",
   "nome": "Sistema de agentes do zero",
   "sub": "Os 10 passos, em Python puro",
   "volta": {
-    "t": "INEMA.CLUB · todos os cursos",
-    "href": "https://inema.club/"
+    "t": "ARCKHé AI.CLUB · todos os cursos",
+    "href": "https://linnoff88-dev.github.io/"
   },
   "lado_card": {
     "rot": "Kit do curso",
     "t": "O agente pronto, aula por aula",
     "texto": "As cinco versões do agente.py, o medir.py e as saídas capturadas, tudo testado com o llama3.2.",
     "link": "Abrir o kit no GitHub",
-    "href": "https://github.com/inematds/agentes-do-zero-v72/tree/main/kit"
+    "href": "https://github.com/linnoff88-dev/agentes-do-zero-v72/tree/main/kit"
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://inema.club/\">inema.club</a> · <a href=\"https://inematds.github.io/intelecto-v2/guia/\">INTELECTO v2: o assistente completo</a> · <a href=\"https://www.inema.club/cursos/392-sistema-de-agentes-do-zero-monte-o-seu-agente-de-ia-nos-10-passos-com-ia-gratis-no-computador/\">Ficha completa deste curso no INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guia: como aprender inteligência artificial</a>",
+  "rodape": "ARCKHé AI.CLUB · conteúdo aberto e gratuito · formato ARCKHé AI Learning v7.2 · <a href=\"https://linnoff88-dev.github.io/\">linnoff88-dev.github.io</a> · <a href=\"https://linnoff88-dev.github.io/intelecto-v2/guia/\">INTELECTO v2: o assistente completo</a> · <a href=\"https://www.linnoff88-dev.github.io/cursos/392-sistema-de-agentes-do-zero-monte-o-seu-agente-de-ia-nos-10-passos-com-ia-gratis-no-computador/\">Ficha completa deste curso no ARCKHé AI.CLUB</a> · <a href=\"https://www.linnoff88-dev.github.io/aprender-inteligencia-artificial/\">Guia: como aprender inteligência artificial</a>",
   "videos": {
     "agentes-do-zero": {
       "titulo": "Sistema de agentes do zero, em vídeo",
       "duracao": "2 min 21 s",
-      "mp4": "https://github.com/inematds/agentes-do-zero-v72/releases/download/video-v1.0.0/agentes-do-zero.mp4",
+      "mp4": "https://github.com/linnoff88-dev/agentes-do-zero-v72/releases/download/video-v1.0.0/agentes-do-zero.mp4",
       "poster": "assets/img/video-poster.jpg",
       "vtt": "assets/vtt/agentes-do-zero.vtt",
       "pagina": "https://www.youtube.com/watch?v=rvpTY9IPtS8"
@@ -33,7 +33,7 @@
     "cta": "Começar pela aula 1",
     "cta2": {
       "t": "Ver o kit no GitHub",
-      "href": "https://github.com/inematds/agentes-do-zero-v72/tree/main/kit"
+      "href": "https://github.com/linnoff88-dev/agentes-do-zero-v72/tree/main/kit"
     },
     "capa_alt": "Sistema de agentes do zero: os 10 passos, em Python puro, com IA grátis no seu computador.",
     "numeros": [
